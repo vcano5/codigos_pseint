@@ -13,7 +13,7 @@ Proceso triangulo
 	sumaac <- a+c;
 	Si sumaab > c Y sumaac > b Entonces
 		Si a = b Y b = c Entonces
-			Escribir "Es un triangulo Equiltaro";
+			Escribir "Es un triangulo Equilatero";
 		Sino
 			Si a = b O a = c O b = c Entonces
 				Escribir "Es un triangulo Escaleno";
